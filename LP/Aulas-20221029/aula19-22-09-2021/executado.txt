@@ -1,0 +1,8 @@
+-> Conteúdo Programático: Tópico 2.5 (Interpretador para Linguagem Imperativa 2 Tipada)
+  * slides LI2Tipada.pdf
+  * estudo de LI2Tipada.rar, em particular
+    do arquivo Typechecer.hs
+
+
+
+	

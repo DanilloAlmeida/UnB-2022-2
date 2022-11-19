@@ -1,0 +1,9 @@
+
+**  Conteúdo Programático 1.11: LE2 (Linguagens de Expressões 2)
+--> todos os slides no arquivo LE2.pdf
+--> baixar, estudar, e rodar o arquivo LE2.rar
+--> fazer o exerício descrito no Slide 11 do arquivo LE2.pdf
+--> somente depois de fazer o exercício acima, estudar e executar
+    resposta sugerida no arquivo LE2ExercicioSlides.rar
+
+

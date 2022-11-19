@@ -1,0 +1,5 @@
+
+* Slides do Tópico 1.4 (listas)
+  vide arquivo "listas.pdf", Slides 9-14, no diretório "Conteúdo programático\Tópico 1.4 (listas)"
+
+

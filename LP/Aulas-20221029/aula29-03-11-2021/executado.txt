@@ -1,0 +1,11 @@
+
+** Conteúdo programático\Tópico 3.4 (Java)
+  arquivo: aplicacaoBancaria.rar
+
+ -  descompactar 
+ - rodar a aplicação:  java InterfaceTextual
+ - estudar o código fonte
+ - anotar dúvidas para discutir na aula seguinte 
+  
+  
+  

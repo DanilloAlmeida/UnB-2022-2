@@ -1,0 +1,16 @@
+--->> vide arquivo "aula.hs" no diretório "aula06-17-02-2021"
+
+--->> Slides do Tópico 1.4 (listas)
+* vide arquivo "listas.pdf", Slides 9-20, no diretório "Conteúdo programático\Tópico 1.4 (listas)"
+* discussão dos exercícios do Slide 17 (funções borrowed e numBorrowed), Slide 18 (returnLoan), 
+  e Slide 20 (todas as funções)
+* ficou como exercício implementar a função produtoCartesiano sem usar compreensão de listas
+* também ficou como exercício modelar matrizes com o lista de listas e definir operações sobre elas, por 
+exemplo soma e multiplicação.  
+
+--->> Slides do Tópico 1.5 (generalizações)  
+* vide arquivo "generalizacao.pdf", Slides 1-8, 
+no diretório "Conteúdo programático\Tópico 1.5 (Padrões e idiomas de generalização))"
+
+
+ 

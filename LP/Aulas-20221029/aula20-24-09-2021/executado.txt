@@ -1,0 +1,10 @@
+
+**  Conteúdo Programático Tópico 2.5 (Interpretador para Linguagem Imperativa 2 Tipada)
+  + estudo e discussão do código do Typechecer.hs, que remove a restrição do último comando de qualquer função ser o comando return, 
+       mas mantendo a garantia de que, se um função retorna tipo diferente de void, deve existir um comando return com expressão com tipo compatível.
+  + discussão de como o typechecker evita dead code.
+
+
+
+
+

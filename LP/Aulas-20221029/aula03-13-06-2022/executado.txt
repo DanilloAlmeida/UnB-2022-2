@@ -1,0 +1,3 @@
+* Slides dos Tópicos 1.1, 1.2, 1.3 (tipos básicos, expressões, funções)
+  conforme arquivo "HaskellBasico.pdf" slides 13-19, no diretório 
+  "Conteúdo programático"

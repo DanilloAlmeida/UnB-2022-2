@@ -1,0 +1,11 @@
+
+**  Conteúdo Programático Tópico 2.5 (Interpretador para Linguagem Imperativa 2 Tipada)
+  + dentro do arquivo "LI2TipadaNormalizadaOtimizada.rar", estudo e discussão dos arquivos:
+    -  Optimizer.hs, que lida com declaração de contantes e otimização por pré-avaliação de (sub)expressões;
+    - Interpret.hs, que integra as fases de análise léxica, análise sintática, desugaring (normalização), checagem  de tipos (type checking), 
+        otimização, e execução.
+
+
+
+
+

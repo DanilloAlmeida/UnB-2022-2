@@ -1,0 +1,10 @@
+-> estudo da Linguagem Imperativa 2 
+  (vide diretório "Conteúdo programático\Tópico 2.2 (LI2)")
+  * slides no arquivo LI2.pdf
+  * implementação no arquivo LI2.rar (arquivos "AbsLI.hs" e "Interpreter.hs")
+  * fazer os exercícios no Slide 8 do arquivo LI2.pdf 
+    (estudar resposta sugerida no arquivo "LI2-exercicio-variavelGlobal.rar"
+     somente depois de tentar).
+
+
+	

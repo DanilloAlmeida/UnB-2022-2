@@ -1,0 +1,14 @@
+
+**  Conteúdo Programático 2.1:  LI1 (Linguagem Imperativa 1)
+--> todos os slides no arquivo LI1.pdf
+--> baixar, estudar, e rodar o arquivo LI1.rar
+--> fazer os exerícios descritos no Slide 12 do arquivo LI1.pdf
+--> somente depois de fazer o exercício acima, estudar e executar
+    resposta sugerida no arquivo LI1-exercicio.rar
+
+
+
+
+
+
+

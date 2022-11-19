@@ -1,0 +1,5 @@
+* Explicação do plano do curso, disponível no SIGAA
+
+* Slides dos Tópicos 1.1, 1.2, 1.3 (tipos básicos, expressões, funções)
+  conforme arquivo "HaskellBasico.pdf" até o Slide 13, no diretório 
+  "Conteúdo programático"
