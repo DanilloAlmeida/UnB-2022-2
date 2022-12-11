@@ -16,8 +16,10 @@ type Receituario = [Prescricao]
 type PlanoMedicamento = [(Horario, [Medicamento])]
 type Plantao = [(Horario, [Cuidado])]
 data Cuidado = Comprar Medicamento Quantidade | Medicar Medicamento
-{-
+
+
 comprarMedicamento :: Medicamento -> Quantidade -> EstoqueMedicamentos -> EstoqueMedicamentos
+{-
 comprarMedicamento = undefined
 -}
 estMed1 :: EstoqueMedicamentos
