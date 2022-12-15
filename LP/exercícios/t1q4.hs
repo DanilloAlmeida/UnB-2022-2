@@ -11,11 +11,24 @@
 
 -}
 
+contaPrescricao :: Prescricao -> Int
+contaPrescricao (med, []) = 0
+contaPrescricao (med, (x:xs)) = contaPrescricao (med, xs)+1
+
+-- Dada uma prescrição, retorna o nome do medicamento
+getNomeMed :: Prescricao -> String
+getNomeMed (med, _) = med
+
+-- Dado um receituario, retorna uma lista de tuplas
+--    com nome e quantidade de comprimidos utilizados
+-- getDemanda :: Receituario -> [(String, Int)]
+-- getDemanda :: Receituario -> EstoqueMedicamentos
+-- getDemanda [] = []
+-- getDemanda (x:xs) = (getNomeMed x, contaPrescricao x) : getDemanda xs
+
 demandaMedicamentos :: Receituario -> EstoqueMedicamentos
-demandaMedicamentos = undefined
-
-
-
+demandaMedicamentos [] = []
+demandaMedicamentos (x:xs) = (getNomeMed x, contaPrescricao x) : demandaMedicamentos xs
 
 
 estoque1 :: EstoqueMedicamentos
@@ -53,6 +66,24 @@ med8 = "Quetiapina"
 
 med9 :: Medicamento
 med9 = "Xarelto"                            
+
+presc1 :: Prescricao
+presc1 = (med1, [0, 12])
+
+presc2 :: Prescricao
+presc2 = (med2, [0, 8, 16])
+
+presc3 :: Prescricao
+presc3 = (med3, [0, 6, 12, 18])
+
+recei1 :: Receituario
+recei1 = [presc1]
+
+recei2 :: Receituario
+recei2 = [presc1, presc2]
+
+recei3 :: Receituario
+recei3 = [presc1, presc2, presc3]
 
 type Medicamento = String
 type Quantidade = Int
